@@ -16,4 +16,7 @@ cys = [x**2 for x in cxs]
 dxs = [i for i in range(7)]
 dys = [x**1.8 - 0.5 for x in dxs]
 
+print("I have made a trivial edit")
+
+
 plotex(cxs, cys, dxs, dys)
